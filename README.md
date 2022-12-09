@@ -1,4 +1,3 @@
 # nodejs-simple-http
 
-node js simple http server
-include nginx reverse proxy for this node app.
+node js simple http server for port 3000
